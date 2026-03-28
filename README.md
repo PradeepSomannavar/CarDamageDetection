@@ -17,7 +17,7 @@
 
 ## 📸 Demo
 
-![Vehicle Damage Detection UI](docs/ui-demo.png)
+![Vehicle Damage Detection UI](docs/ui-demo-v2.png)
 
 ---
 
@@ -114,7 +114,7 @@ damage-prediction/
 │           └── main.jsx           # Vite entry point
 │
 └── docs/
-    └── ui-demo.png                # UI screenshot
+    └── ui-demo-v2.png             # UI screenshot
 ```
 
 ---
